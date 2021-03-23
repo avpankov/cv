@@ -1,1 +1,1 @@
-## https://avpankov.github.io/cv/
+## https://github.com/avpankov/cv/blob/gh-pages/cv.md
